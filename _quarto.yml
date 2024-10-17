@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  bread-crumbs: true
+  favicon: Logos/Logo_NoText.png
+  title: "SPHERE-PPL - Annual Meeting 2025 - Health Modelling & Forecasting"
+  navbar:
+    title: "SPHERE-PPL - Annual Meeting 2025 - Health Modelling & Forecasting"
+    logo: Logos/Logo_NoText.png
+    tools:
+      - icon: github
+        href: https://github.com/SPHERE-PPL/SPHERE-PPL.github.io
+        
+  page-footer:
+    border: true
+    left: Copyright 2025 - SPHERE-PPL
+    right:
+      - text: "Spatial, Health & Environmental Research using Probilistic Programming Languages"
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: darkly
+    toc: false
+    page-layout: full

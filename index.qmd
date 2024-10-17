@@ -1,0 +1,6 @@
+---
+title: ""
+image: Logos/Logo_NoBackground.png
+---
+# Presentations
+- [Day Plan](Presentation/DayPlan.qmd)
