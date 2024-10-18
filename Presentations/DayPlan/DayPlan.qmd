@@ -12,7 +12,7 @@ author:
 date: 2025-01-23
 ---
 
-## Agenda {.smaller}
+## Agenda {.smaller #sec-agenda}
 
 | Timings | Activity | Description |
 |:-----------|:----------------------|-------------------------------------|
@@ -162,17 +162,19 @@ Refreshments and food are around the corner in the kitchen areas!
 
 Refreshments are around the corner in the kitchen areas
 
+# Activity 3 - Building a Community
+
 ## What can SPHERE-PPL do for you?
 
 ## Workshops, Training & Support
 
-## Wrap-Up
+# Wrap-Up
 
 -   We've reached the end of the day!
 -   Please complete the [Feedback Survey](https://forms.office.com/e/KMXLY5wAQL)
 
-![](images/QRCode.png){height="300" fig-align="center"}
+![](images/QRCode.png){height="400" fig-align="center"}
 
 # Thank-You!
 
-For more information, please visit [www.sphere-ppl.org](sphere-ppl.org) or email the team at info\@sphere-ppl.org.
+For more information, please visit [www.sphere-ppl.org](sphere-ppl.org) or email the team at [info@sphere-ppl.org](mailto:info@sphere-ppl.org).

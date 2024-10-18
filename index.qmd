@@ -1,6 +1,35 @@
 ---
-title: ""
+title: "Annual Meeting 2025 - Health Modelling & Forecasting"
 image: Logos/Logo_NoBackground.png
 ---
+
+# Key Outcomes
+
+This full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.
+
+Meeting participants will:
+
+1. Network with policy specialists and data scientists to discuss issues through a common language
+
+2. Identify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.
+
+3. Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
+
+
+This event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.
+
+# Agenda
+![](www.sphere-ppl.org/Events/Jan25.html#sec-agenda)
+
 # Presentations
-- [Day Plan](Presentation/DayPlan.qmd)
+
+-   [Day Structure](Presentations/DayPlan/DayPlan.qmd)
+-   [Keynote 1 - Dr. Lauren Cator]()
+-   [Keynote 2 - tbc]()
+-   [Building a Forecasting Contest](Presentations/ForecastingContests/ForecastingContests.qmd)
+
+# Forecasting Contest Examples
+
+-   [Mpox Example (SPHERE-PPL)](https://github.com/SPHERE-PPL/Contest-Example-Mpox)
+-   [Cherryblossom Example (George Mason University)](https://competition.statistics.gmu.edu/)
+-   [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR)

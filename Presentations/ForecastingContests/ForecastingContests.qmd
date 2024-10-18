@@ -1,0 +1,16 @@
+---
+title: Building a Forecasting Contest
+subtitle: From Questions to Insights
+format: 
+  revealjs:
+    logo: images/Logo_NoText.png
+    css: logo.css
+    footer: "Spatial, Health & Environmental Research Using Probabilistic Programming"
+    theme: custom.scss
+author: Dr Josh Tyler - *The Alan Turing Institute*
+---
+
+## Ingredients of a Forecasting Contest
+- Creating an exam question
+- Thinking about data inputs
+- Maximising value from outputs
