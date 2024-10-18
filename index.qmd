@@ -19,7 +19,24 @@ Meeting participants will:
 This event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.
 
 # Agenda
-![](www.sphere-ppl.org/Events/Jan25.html#sec-agenda)
+<div id="target-container" style="font-size: 0.8em;"></div>
+
+<script>
+  fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
+    .then(response => response.text())
+    .then(html => {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+      const agendaSection   
+ = doc.getElementById('sec-agenda');
+      const table = agendaSection.querySelector('table');
+      const tableHTML = table.outerHTML;
+      document.getElementById('target-container').innerHTML = tableHTML;
+    })
+    .catch(error => {
+      console.error('Error fetching webpage:', error);
+    });
+</script>
 
 # Presentations
 

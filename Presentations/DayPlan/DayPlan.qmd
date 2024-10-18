@@ -14,24 +14,30 @@ date: 2025-01-23
 
 ## Agenda {.smaller #sec-agenda}
 
-| Timings | Activity | Description |
-|:-----------|:----------------------|-------------------------------------|
-| 8:30-9:00 | Arrivals & Registration |  |
-| 9:00-9:10 | Welcome & Housekeeping |  |
-| 9:10-9:30 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
-| 9:30-10:00 | Keynote 1 - Dr Lauren Cator | tbc |
-| 10:00-10:30 | Keynote 2 - Dr Will Pearse | How forecasting and probabilistic programming can improve health outcomes |
-| 10:30-11:00 | Coffee Break |  |
-| 11:00-12:00 | Break-Out Discussion | Identifying key challenges in health policy |
-| 12:00-12:30 | Break-Out Feedback | 2-minute presentations on challenges |
-| 12:30-13:30 | Lunch |  |
-| 13:30-14:15 | Break-Out Design | Groups design forecasting contests |
-| 14:15-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
-| 15:00-15:30 | Coffee Break |  |
-| 15:30-15:40 | Presentation - Dr Josh Tyler | What can SPHERE-PPL do for you? |
-| 15:40-16:10 | Break-Out Discussion | Brainstorming requests for workshops, training and support |
-| 16:10-16:30 | Break-Out Feedback | Creating a community priority list |
-| 16:30-17:00 | Wrap-Up |  |
+<div id="target-container"></div>
+
+<script>
+  fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
+    .then(response => response.text())
+    .then(html => {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+      const agendaSection   
+ = doc.getElementById('sec-agenda');
+      const table = agendaSection.querySelector('table');
+      const tableHTML = table.outerHTML;
+      document.getElementById('target-container').innerHTML = tableHTML;
+    })
+    .catch(error => {
+      console.error('Error fetching webpage:', error);
+    });
+</script>
+
+
+
+
+
+
 
 # Welcome!
 
@@ -47,11 +53,24 @@ date: 2025-01-23
 -   **Professional Conduct**: Maintain a professional demeanour throughout the workshop, including during breaks and social events.
 -   **Mobile Devices**: Minimize distractions by silencing mobile phones or using them only during breaks, unless they are essential for workshop activities.
 
+
+
+
+
+
+
+
 # Introduction from the SPHERE-PPL Team
 
 ## What is SPHERE-PPL?
 
 ## Outcomes of the day
+
+
+
+
+
+
 
 # Keynotes
 
@@ -83,9 +102,18 @@ date: 2025-01-23
 :::
 ::::::
 
+
+
+
+
 # Coffee Break
 
 Refreshments are around the corner in the kitchen areas
+
+
+
+
+
 
 # Activity 1 - Identifying Key Challenges in Health Policy
 
@@ -111,31 +139,50 @@ Refreshments are around the corner in the kitchen areas
 
 The SPHERE-PPL team will move between groups to help facilitate discussions.
 
+
+
+
+
+
 # Lunch Break
 
 Refreshments and food are around the corner in the kitchen areas!
 
-## Welcome Back!
 
-| Timings | Activity | Description |
-|:----------------|:----------------|--------------------------------------|
-| 13:30-14:15 | Break-Out Design | Groups design forecasting contests |
-| 14:15-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
-| 15:00-15:30 | Coffee Break |  |
-| 15:30-15:40 | Presentation | What can SPHERE-PPL do for you? |
-| 15:40-16:10 | Break-Out Discussion | Brainstorming requests for workshops, training and support |
-| 16:10-16:30 | Break-Out Feedback | Creating a community priority list |
-| 16:30-17:00 | Wrap-Up |  |
+
+
+
+
+## Welcome Back! {.smaller}
+<div id="target-container2"></div>
+
+<script>
+  fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
+    .then(response => response.text())
+    .then(html => {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+      const agendaSection   
+ = doc.getElementById('sec-agenda');
+      const table = agendaSection.querySelector('table');
+      const tableHTML = table.outerHTML;
+      document.getElementById('target-container2').innerHTML = tableHTML;
+    })
+    .catch(error => {
+      console.error('Error fetching webpage:', error);
+    });
+</script>
+
+
+
+
+
 
 # Activity 2 - Designing a Forecasting Contest
 
 ## How its going to work! {.smaller}
-
-
-
 -   **Stage 1 - Introduction to Forecasting Contests (10 minutes)**
     -   Quick presentation from the SPHERE-PPL team on how the forecasting contests are going to work mechanically and what makes a good contest
-
 
 -   **Stage 2 - Break-Out Discussions (40 minutes)**
     -   Split into random teams of 5
@@ -145,7 +192,6 @@ Refreshments and food are around the corner in the kitchen areas!
         -   Think about the type of data that might already exist that participants could use
         -   What will the outputs look like?
         -   Is the context easy to pick up for a contest participant?
-
 
 -   **Stage 3 - Group Feedback (40 minutes)**
     -   Each team will give an overview of their proposed contest
@@ -158,9 +204,17 @@ Refreshments and food are around the corner in the kitchen areas!
 
 -   
 
+
+
+
+
 # Coffee Break
 
 Refreshments are around the corner in the kitchen areas
+
+
+
+
 
 # Activity 3 - Building a Community
 
@@ -168,12 +222,24 @@ Refreshments are around the corner in the kitchen areas
 
 ## Workshops, Training & Support
 
+
+
+
+
+
+
 # Wrap-Up
 
 -   We've reached the end of the day!
 -   Please complete the [Feedback Survey](https://forms.office.com/e/KMXLY5wAQL)
 
 ![](images/QRCode.png){height="400" fig-align="center"}
+
+
+
+
+
+
 
 # Thank-You!
 

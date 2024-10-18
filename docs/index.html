@@ -146,7 +146,25 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="agenda" class="level1">
 <h1>Agenda</h1>
-<p><embed src="www.sphere-ppl.org/Events/Jan25.html#sec-agenda" class="img-fluid"></p>
+<div id="target-container" style="font-size: 0.8em;">
+
+</div>
+<script>
+  fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
+    .then(response => response.text())
+    .then(html => {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+      const agendaSection   
+ = doc.getElementById('sec-agenda');
+      const table = agendaSection.querySelector('table');
+      const tableHTML = table.outerHTML;
+      document.getElementById('target-container').innerHTML = tableHTML;
+    })
+    .catch(error => {
+      console.error('Error fetching webpage:', error);
+    });
+</script>
 </section>
 <section id="presentations" class="level1">
 <h1>Presentations</h1>
