@@ -42,7 +42,8 @@ This event and the subsequent forecasting contests have been generously funded b
 
 -   [Day Structure](Presentations/DayPlan/DayPlan.qmd)
 -   [Keynote 1 - Dr. Lauren Cator]()
--   [Keynote 2 - tbc]()
+-   [Keynote 2 - Dr. Will Pearse]()
+-   [Keynote 3 - tbc]()
 -   [Building a Forecasting Contest](Presentations/ForecastingContests/ForecastingContests.qmd)
 
 # Forecasting Contest Examples

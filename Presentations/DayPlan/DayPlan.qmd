@@ -12,6 +12,29 @@ author:
 date: 2025-01-23
 ---
 
+
+
+
+
+
+# Welcome!
+
+## Facilities & Accessibility
+
+![](images/Floor1.jpg){fig-align="center"}
+
+## Code of Conduct {.smaller}
+
+-   **Respectful Communication**: Communicate with others in a professional and considerate manner. Be mindful of diverse perspectives and experiences. Avoid interrupting others and listen actively.
+-   **Inclusive Language**: Use inclusive language that avoids any discriminatory or offensive remarks. Be mindful of gender, race, ethnicity, religion, sexual orientation, and other personal attributes.
+-   **Active Participation**: Engage actively in discussions and activities. Share your insights and perspectives while being mindful of others' contributions.
+-   **Professional Conduct**: Maintain a professional demeanour throughout the workshop, including during breaks and social events.
+-   **Mobile Devices**: Minimize distractions by silencing mobile phones or using them only during breaks, unless they are essential for workshop activities.
+
+
+
+
+
 ## Agenda {.smaller #sec-agenda}
 
 <div id="target-container"></div>
@@ -39,27 +62,6 @@ date: 2025-01-23
 
 
 
-# Welcome!
-
-## Facilities & Accessibility
-
-![](images/Floor1.jpg){fig-align="center"}
-
-## Code of Conduct {.smaller}
-
--   **Respectful Communication**: Communicate with others in a professional and considerate manner. Be mindful of diverse perspectives and experiences. Avoid interrupting others and listen actively.
--   **Inclusive Language**: Use inclusive language that avoids any discriminatory or offensive remarks. Be mindful of gender, race, ethnicity, religion, sexual orientation, and other personal attributes.
--   **Active Participation**: Engage actively in discussions and activities. Share your insights and perspectives while being mindful of others' contributions.
--   **Professional Conduct**: Maintain a professional demeanour throughout the workshop, including during breaks and social events.
--   **Mobile Devices**: Minimize distractions by silencing mobile phones or using them only during breaks, unless they are essential for workshop activities.
-
-
-
-
-
-
-
-
 # Introduction from the SPHERE-PPL Team
 
 ## What is SPHERE-PPL?
@@ -77,32 +79,40 @@ date: 2025-01-23
 ## Keynotes {.smaller}
 
 :::::: columns
-::: {.column width="10%"}
-:::
-
 ::: {.column width="20%"}
-{{< placeholder 150 200 >}}
+{{< placeholder >}}
 :::
 
-::: {.column width="70%"}
+::: {.column width="80%"}
 **Dr Lauren Cator** - *Imperial College London*
+
+tbc
 :::
 ::::::
 
 :::::: columns
-::: {.column width="10%"}
-:::
-
 ::: {.column width="20%"}
-{{< placeholder 150 200 >}}
+{{< placeholder >}}
 :::
 
-::: {.column width="70%"}
-**tbc** - *tbc*
+::: {.column width="80%"}
+**Dr Will Pearse** - *Imperial College London*
+
+How forecasting and probabilistic programming can improve health outcomes?
 :::
 ::::::
 
+:::::: columns
+::: {.column width="20%"}
+{{< placeholder >}}
+:::
 
+::: {.column width="80%"}
+**tbc** - *tbc*
+
+tbc
+:::
+::::::
 
 
 
@@ -233,7 +243,7 @@ Refreshments are around the corner in the kitchen areas
 -   We've reached the end of the day!
 -   Please complete the [Feedback Survey](https://forms.office.com/e/KMXLY5wAQL)
 
-![](images/QRCode.png){height="400" fig-align="center"}
+![](images/QRCode.png){height="350" fig-align="center"}
 
 
 
