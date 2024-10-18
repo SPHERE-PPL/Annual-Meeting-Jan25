@@ -16,13 +16,15 @@ $logo-teal: #008aa5;
 
 .reveal h1, 
 .reveal h2, 
-.reveal h3, 
+.reveal h3{
+  color: $logo-teal; 
+}
 .reveal h4, 
 .reveal h5, 
 .reveal h6 {
-  color: $logo-teal; 
+  color: $logo-orange;
+  font-size: 1em;
 }
-
 
 .reveal section:first-child h1 { 
   font-size: 2em; 
@@ -35,12 +37,16 @@ $logo-teal: #008aa5;
 
 table {
   td, th {
-    font-size: 0.6em; /* Adjust this value to your preference */
+    font-size: 0.6em;
   }
 }
 
 strong, b {
-  color: $logo-dark-blue; /* Use your $orange variable or any other color you prefer */
+  color: $logo-dark-blue;
+}
+
+em {
+  color: $logo-green;
 }
 
 .reveal a {

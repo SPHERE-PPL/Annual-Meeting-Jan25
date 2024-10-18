@@ -12,11 +12,6 @@ author:
 date: 2025-01-23
 ---
 
-
-
-
-
-
 # Welcome!
 
 ## Facilities & Accessibility
@@ -31,13 +26,10 @@ date: 2025-01-23
 -   **Professional Conduct**: Maintain a professional demeanour throughout the workshop, including during breaks and social events.
 -   **Mobile Devices**: Minimize distractions by silencing mobile phones or using them only during breaks, unless they are essential for workshop activities.
 
+## Agenda {.smaller}
 
-
-
-
-## Agenda {.smaller #sec-agenda}
-
-<div id="target-container"></div>
+::: {#target-container}
+:::
 
 <script>
   fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
@@ -56,29 +48,21 @@ date: 2025-01-23
     });
 </script>
 
-
-
-
-
-
-
 # Introduction from the SPHERE-PPL Team
 
 ## What is SPHERE-PPL?
 
-## Outcomes of the day
+#### SPatial, Health & Environmental REsearch using Probabilistic Programming Languages
 
+![](images/scope.jpg){fig-align="center"}
 
-
-
-
-
+## Outcomes of the Day
 
 # Keynotes
 
 ## Keynotes {.smaller}
 
-:::::: columns
+::::: columns
 ::: {.column width="20%"}
 {{< placeholder >}}
 :::
@@ -88,9 +72,9 @@ date: 2025-01-23
 
 tbc
 :::
-::::::
+:::::
 
-:::::: columns
+::::: columns
 ::: {.column width="20%"}
 {{< placeholder >}}
 :::
@@ -100,9 +84,9 @@ tbc
 
 How forecasting and probabilistic programming can improve health outcomes?
 :::
-::::::
+:::::
 
-:::::: columns
+::::: columns
 ::: {.column width="20%"}
 {{< placeholder >}}
 :::
@@ -112,18 +96,11 @@ How forecasting and probabilistic programming can improve health outcomes?
 
 tbc
 :::
-::::::
-
-
+:::::
 
 # Coffee Break
 
 Refreshments are around the corner in the kitchen areas
-
-
-
-
-
 
 # Activity 1 - Identifying Key Challenges in Health Policy
 
@@ -149,22 +126,14 @@ Refreshments are around the corner in the kitchen areas
 
 The SPHERE-PPL team will move between groups to help facilitate discussions.
 
-
-
-
-
-
 # Lunch Break
 
 Refreshments and food are around the corner in the kitchen areas!
 
-
-
-
-
-
 ## Welcome Back! {.smaller}
-<div id="target-container2"></div>
+
+::: {#target-container2}
+:::
 
 <script>
   fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
@@ -183,17 +152,12 @@ Refreshments and food are around the corner in the kitchen areas!
     });
 </script>
 
-
-
-
-
-
 # Activity 2 - Designing a Forecasting Contest
 
 ## How its going to work! {.smaller}
+
 -   **Stage 1 - Introduction to Forecasting Contests (10 minutes)**
     -   Quick presentation from the SPHERE-PPL team on how the forecasting contests are going to work mechanically and what makes a good contest
-
 -   **Stage 2 - Break-Out Discussions (40 minutes)**
     -   Split into random teams of 5
     -   Each team takes pens and A3 sheet
@@ -202,11 +166,9 @@ Refreshments and food are around the corner in the kitchen areas!
         -   Think about the type of data that might already exist that participants could use
         -   What will the outputs look like?
         -   Is the context easy to pick up for a contest participant?
-
 -   **Stage 3 - Group Feedback (40 minutes)**
     -   Each team will give an overview of their proposed contest
     -   Indicative vote on what would provide greatest impact
-
 
 ## Key Challenges in Health and Policy
 
@@ -214,29 +176,15 @@ Refreshments and food are around the corner in the kitchen areas!
 
 -   
 
-
-
-
-
 # Coffee Break
 
 Refreshments are around the corner in the kitchen areas
-
-
-
-
 
 # Activity 3 - Building a Community
 
 ## What can SPHERE-PPL do for you?
 
 ## Workshops, Training & Support
-
-
-
-
-
-
 
 # Wrap-Up
 
@@ -245,12 +193,6 @@ Refreshments are around the corner in the kitchen areas
 
 ![](images/QRCode.png){height="350" fig-align="center"}
 
-
-
-
-
-
-
 # Thank-You!
 
-For more information, please visit [www.sphere-ppl.org](sphere-ppl.org) or email the team at [info@sphere-ppl.org](mailto:info@sphere-ppl.org).
+For more information, please visit [www.sphere-ppl.org](sphere-ppl.org) or email the team at [info\@sphere-ppl.org](mailto:info@sphere-ppl.org).

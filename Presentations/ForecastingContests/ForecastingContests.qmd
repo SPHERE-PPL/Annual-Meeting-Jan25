@@ -7,10 +7,16 @@ format:
     css: logo.css
     footer: "Spatial, Health & Environmental Research Using Probabilistic Programming"
     theme: custom.scss
-author: Dr Josh Tyler - *The Alan Turing Institute*
+author: "**Dr Josh Tyler**"
 ---
 
-## Ingredients of a Forecasting Contest
-- Creating an exam question
-- Thinking about data inputs
-- Maximising value from outputs
+## What is a Forecasting Contest?
+
+
+## From Questions to Insights
+
+-   
+
+## Maximising Value
+
+-   

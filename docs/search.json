@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Annual Meeting 2025 - Health Modelling & Forecasting",
     "section": "",
-    "text": "Key Outcomes\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.\n\n\nAgenda\n\n\n\n\n\n\nPresentations\n\nDay Structure\nKeynote 1 - Dr. Lauren Cator\nKeynote 2 - tbc\nBuilding a Forecasting Contest\n\n\n\nForecasting Contest Examples\n\nMpox Example (SPHERE-PPL)\nCherryblossom Example (George Mason University)\nForecast AggregatoR"
+    "text": "Key Outcomes\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.\n\n\nAgenda\n\n\n\n\n\n\nPresentations\n\nDay Structure\nKeynote 1 - Dr. Lauren Cator\nKeynote 2 - Dr. Will Pearse\nKeynote 3 - tbc\nBuilding a Forecasting Contest\n\n\n\nForecasting Contest Examples\n\nMpox Example (SPHERE-PPL)\nCherryblossom Example (George Mason University)\nForecast AggregatoR"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#sec-agenda",
@@ -32,14 +32,14 @@
     "href": "Presentations/DayPlan/DayPlan.html#what-is-sphere-ppl",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
     "section": "What is SPHERE-PPL?",
-    "text": "What is SPHERE-PPL?"
+    "text": "What is SPHERE-PPL?\nSPatial, Health & Environmental REsearch using Probabilistic Programming Languages"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#outcomes-of-the-day",
     "href": "Presentations/DayPlan/DayPlan.html#outcomes-of-the-day",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
-    "section": "Outcomes of the day",
-    "text": "Outcomes of the day"
+    "section": "Outcomes of the Day",
+    "text": "Outcomes of the Day"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#keynotes-1",
@@ -95,6 +95,55 @@
     "href": "Presentations/ForecastingContests/ForecastingContests.html#ingredients-of-a-forecasting-contest",
     "title": "Building a Forecasting Contest",
     "section": "Ingredients of a Forecasting Contest",
-    "text": "Ingredients of a Forecasting Contest\n\nCreating an exam question\nThinking about data inputs\nMaximising value from outputs\n\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
+    "text": "Ingredients of a Forecasting Contest"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#agenda",
+    "href": "Presentations/DayPlan/DayPlan.html#agenda",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#what-is-a-forecasting-contest",
+    "href": "Presentations/ForecastingContests/ForecastingContests.html#what-is-a-forecasting-contest",
+    "title": "Building a Forecasting Contest",
+    "section": "What is a Forecasting Contest?",
+    "text": "What is a Forecasting Contest?"
+  },
+  {
+    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#putting-it-all-together",
+    "href": "Presentations/ForecastingContests/ForecastingContests.html#putting-it-all-together",
+    "title": "Building a Forecasting Contest",
+    "section": "Putting it all together",
+    "text": "Putting it all together\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
+  },
+  {
+    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipe",
+    "href": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipe",
+    "title": "Building a Forecasting Contest",
+    "section": "Following the Recipe",
+    "text": "Following the Recipe\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
+  },
+  {
+    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipie",
+    "href": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipie",
+    "title": "Building a Forecasting Contest",
+    "section": "Following the Recipie",
+    "text": "Following the Recipie\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
+  },
+  {
+    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#from-questions-to-insights",
+    "href": "Presentations/ForecastingContests/ForecastingContests.html#from-questions-to-insights",
+    "title": "Building a Forecasting Contest",
+    "section": "From Questions to Insights",
+    "text": "From Questions to Insights"
+  },
+  {
+    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#maximising-value",
+    "href": "Presentations/ForecastingContests/ForecastingContests.html#maximising-value",
+    "title": "Building a Forecasting Contest",
+    "section": "Maximising Value",
+    "text": "Maximising Value\n\n\n\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
   }
 ]
