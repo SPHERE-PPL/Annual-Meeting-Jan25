@@ -68,7 +68,7 @@ date: 2025-01-23
 :::
 
 ::: {.column width="80%"}
-**Dr Lauren Cator** - *Imperial College London*
+**Dr Lauren Cator** - *One Health Vector-Borne Diseases Hub & Imperial College London*
 
 tbc
 :::
@@ -80,7 +80,7 @@ tbc
 :::
 
 ::: {.column width="80%"}
-**Dr Will Pearse** - *Imperial College London*
+**Dr Will Pearse** - *The Alan Turing Institute & Imperial College London*
 
 How forecasting and probabilistic programming can improve health outcomes?
 :::
@@ -92,9 +92,9 @@ How forecasting and probabilistic programming can improve health outcomes?
 :::
 
 ::: {.column width="80%"}
-**tbc** - *tbc*
+**Dr Richard Wood** - *BNSSG ICB & University of Bath*
 
-tbc
+Insights from Modelling and Analytics within the NHS
 :::
 :::::
 
@@ -182,7 +182,21 @@ Refreshments are around the corner in the kitchen areas
 
 # Activity 3 - Building a Community
 
+## How its going to work! {.smaller}
+
+-   **Stage 1 - What can SPHERE-PPL do for you? (10 minutes)**
+    -   Quick presentation from the SPHERE-PPL team on what the future holds
+-   **Stage 2 - Brainstorming requests for workshops, training and support (20 minutes)**
+    -   Split into groups and make a list of different ideas that would help you make progress in your area
+    -   Include as many details as possible
+-   **Stage 3 - Creating a community priority list (30 minutes)**
+    -   Each team will give an overview of their requests
+    -   Discussion around how the SPHERE-PPL community can best facilitate and maximise value.
+
 ## What can SPHERE-PPL do for you?
+
+- The network's primary goal is to connect data-scientists, researchers and policy-makers, to enable high-quality modelling and data-driven decision-making.
+
 
 ## Workshops, Training & Support
 

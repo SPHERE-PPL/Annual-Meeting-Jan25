@@ -9,17 +9,18 @@ This full-day event will bring together experts in a range of fields from indust
 
 Meeting participants will:
 
-1. Network with policy specialists and data scientists to discuss issues through a common language
+1.  Network with policy specialists and data scientists to discuss issues through a common language
 
-2. Identify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.
+2.  Identify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.
 
-3. Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
-
+3.  Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
 
 This event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.
 
 # Agenda
-<div id="target-container" style="font-size: 0.8em;"></div>
+
+::: {#target-container style="font-size: 0.8em;"}
+:::
 
 <script>
   fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
@@ -43,8 +44,14 @@ This event and the subsequent forecasting contests have been generously funded b
 -   [Day Structure](Presentations/DayPlan/DayPlan.qmd)
 -   [Keynote 1 - Dr. Lauren Cator]()
 -   [Keynote 2 - Dr. Will Pearse]()
--   [Keynote 3 - tbc]()
--   [Building a Forecasting Contest](Presentations/ForecastingContests/ForecastingContests.qmd)
+-   [Keynote 3 - Dr. Richard Wood]()
+-   [Building a Forecasting Contest](Presentations/ForecastingContests/ForecastingContests.pdf)
+
+# Activities
+
+-   Activity 1 - Identifying Key Challenges in Health Policy [pdf](Activities/Activity1.pdf) [word](Activities/Activity1.docx)
+-   Activity 2 - Designing a Forecasting Contest [pdf](Activities/Activity2.pdf) [word](Activities/Activity2.docx)
+-   Activity 3 - Building a Community [pdf](Activities/Activity3.pdf) [word](Activities/Activity3.docx)
 
 # Forecasting Contest Examples
 

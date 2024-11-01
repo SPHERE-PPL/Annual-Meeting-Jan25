@@ -4,14 +4,7 @@
     "href": "index.html",
     "title": "Annual Meeting 2025 - Health Modelling & Forecasting",
     "section": "",
-    "text": "Key Outcomes\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.\n\n\nAgenda\n\n\n\n\n\n\nPresentations\n\nDay Structure\nKeynote 1 - Dr. Lauren Cator\nKeynote 2 - Dr. Will Pearse\nKeynote 3 - tbc\nBuilding a Forecasting Contest\n\n\n\nForecasting Contest Examples\n\nMpox Example (SPHERE-PPL)\nCherryblossom Example (George Mason University)\nForecast AggregatoR"
-  },
-  {
-    "objectID": "Presentations/DayPlan/DayPlan.html#sec-agenda",
-    "href": "Presentations/DayPlan/DayPlan.html#sec-agenda",
-    "title": "SPHERE-PPL Annual Meeting & Workshop",
-    "section": "Agenda",
-    "text": "Agenda"
+    "text": "Key Outcomes\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute.\n\n\nAgenda\n\n\n\n\n\n\nPresentations\n\nDay Structure\nKeynote 1 - Dr. Lauren Cator\nKeynote 2 - Dr. Will Pearse\nKeynote 3 - Dr. Richard Wood\nBuilding a Forecasting Contest\n\n\n\nActivities\n\nActivity 1 - Identifying Key Challenges in Health Policy pdf word\nActivity 2 - Designing a Forecasting Contest pdf word\nActivity 3 - Building a Community pdf word\n\n\n\nForecasting Contest Examples\n\nMpox Example (SPHERE-PPL)\nCherryblossom Example (George Mason University)\nForecast AggregatoR"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#facilities-accessibility",
@@ -26,6 +19,13 @@
     "title": "SPHERE-PPL Annual Meeting & Workshop",
     "section": "Code of Conduct",
     "text": "Code of Conduct\n\nRespectful Communication: Communicate with others in a professional and considerate manner. Be mindful of diverse perspectives and experiences. Avoid interrupting others and listen actively.\nInclusive Language: Use inclusive language that avoids any discriminatory or offensive remarks. Be mindful of gender, race, ethnicity, religion, sexual orientation, and other personal attributes.\nActive Participation: Engage actively in discussions and activities. Share your insights and perspectives while being mindful of others’ contributions.\nProfessional Conduct: Maintain a professional demeanour throughout the workshop, including during breaks and social events.\nMobile Devices: Minimize distractions by silencing mobile phones or using them only during breaks, unless they are essential for workshop activities."
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#agenda",
+    "href": "Presentations/DayPlan/DayPlan.html#agenda",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Agenda",
+    "text": "Agenda"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#what-is-sphere-ppl",
@@ -46,7 +46,7 @@
     "href": "Presentations/DayPlan/DayPlan.html#keynotes-1",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
     "section": "Keynotes",
-    "text": "Keynotes\n\n\n\n\nDr Lauren Cator - Imperial College London\ntbc\n\n\n\n\n\nDr Will Pearse - Imperial College London\nHow forecasting and probabilistic programming can improve health outcomes?\n\n\n\n\n\ntbc - tbc\ntbc"
+    "text": "Keynotes\n\n\n\n\nDr Lauren Cator - One Health Vector-Borne Diseases Hub & Imperial College London\ntbc\n\n\n\n\n\nDr Will Pearse - The Alan Turing Institute & Imperial College London\nHow forecasting and probabilistic programming can improve health outcomes?\n\n\n\n\n\nDr Richard Wood - BNSSG ICB & University of Bath\nInsights from Modelling and Analytics within the NHS"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work",
@@ -81,7 +81,7 @@
     "href": "Presentations/DayPlan/DayPlan.html#what-can-sphere-ppl-do-for-you",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
     "section": "What can SPHERE-PPL do for you?",
-    "text": "What can SPHERE-PPL do for you?"
+    "text": "What can SPHERE-PPL do for you?\n\nThe network’s primary goal is to connect data-scientists, researchers and policy-makers, to enable high-quality modelling and data-driven decision-making."
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#workshops-training-support",
@@ -91,59 +91,10 @@
     "text": "Workshops, Training & Support"
   },
   {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#ingredients-of-a-forecasting-contest",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#ingredients-of-a-forecasting-contest",
-    "title": "Building a Forecasting Contest",
-    "section": "Ingredients of a Forecasting Contest",
-    "text": "Ingredients of a Forecasting Contest"
-  },
-  {
-    "objectID": "Presentations/DayPlan/DayPlan.html#agenda",
-    "href": "Presentations/DayPlan/DayPlan.html#agenda",
+    "objectID": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-2",
+    "href": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-2",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
-    "section": "Agenda",
-    "text": "Agenda"
-  },
-  {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#what-is-a-forecasting-contest",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#what-is-a-forecasting-contest",
-    "title": "Building a Forecasting Contest",
-    "section": "What is a Forecasting Contest?",
-    "text": "What is a Forecasting Contest?"
-  },
-  {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#putting-it-all-together",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#putting-it-all-together",
-    "title": "Building a Forecasting Contest",
-    "section": "Putting it all together",
-    "text": "Putting it all together\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
-  },
-  {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipe",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipe",
-    "title": "Building a Forecasting Contest",
-    "section": "Following the Recipe",
-    "text": "Following the Recipe\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
-  },
-  {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipie",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#following-the-recipie",
-    "title": "Building a Forecasting Contest",
-    "section": "Following the Recipie",
-    "text": "Following the Recipie\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
-  },
-  {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#from-questions-to-insights",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#from-questions-to-insights",
-    "title": "Building a Forecasting Contest",
-    "section": "From Questions to Insights",
-    "text": "From Questions to Insights"
-  },
-  {
-    "objectID": "Presentations/ForecastingContests/ForecastingContests.html#maximising-value",
-    "href": "Presentations/ForecastingContests/ForecastingContests.html#maximising-value",
-    "title": "Building a Forecasting Contest",
-    "section": "Maximising Value",
-    "text": "Maximising Value\n\n\n\n\n\n\n\nSpatial, Health & Environmental Research Using Probabilistic Programming"
+    "section": "How its going to work!",
+    "text": "How its going to work!\n\nStage 1 - What can SPHERE-PPL do for you? (10 minutes)\n\nQuick presentation from the SPHERE-PPL team on what the future holds\n\nStage 2 - Brainstorming requests for workshops, training and support (20 minutes)\n\nSplit into groups and make a list of different ideas that would help you make progress in your area\nInclude as many details as possible\n\nStage 3 - Creating a community priority list (30 minutes)\n\nEach team will give an overview of their requests\nDiscussion around how the SPHERE-PPL community can best facilitate and maximise value."
   }
 ]
