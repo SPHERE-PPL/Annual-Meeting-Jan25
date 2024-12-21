@@ -111,7 +111,7 @@ Refreshments are around the corner in the kitchen areas
 -   **Stage 1 - Break-out Discussions (45 minutes)**
     -   Split into random teams of 5
     -   Each team takes pens and A3 sheet
-    -   60 minutes to talk about key challenges in Health Policy that relate to modelling & forecasting
+    -   45 minutes to talk about key challenges in Health Policy that relate to modelling & forecasting
     -   Don't worry about finding solutions, we will do that in this afternoon's session
 
 </div>
@@ -124,7 +124,6 @@ Refreshments are around the corner in the kitchen areas
 
 </div>
 
-The SPHERE-PPL team will move between groups to help facilitate discussions.
 
 # Lunch Break
 
@@ -156,7 +155,7 @@ Refreshments and food are around the corner in the kitchen areas!
 
 ## How its going to work! {.smaller}
 
--   **Stage 1 - Introduction to Forecasting Contests (10 minutes)**
+-   **Stage 1 - Building a Forecasting Contest (10 minutes)**
     -   Quick presentation from the SPHERE-PPL team on how the forecasting contests are going to work mechanically and what makes a good contest
 -   **Stage 2 - Break-Out Discussions (40 minutes)**
     -   Split into random teams of 5
@@ -170,7 +169,40 @@ Refreshments and food are around the corner in the kitchen areas!
     -   Each team will give an overview of their proposed contest
     -   Indicative vote on what would provide greatest impact
 
-## Key Challenges in Health and Policy
+
+
+# Building a Forecasting Contest
+<p>From Questions to Insights</p> 
+<p>**Dr. Josh Tyler**</p> 
+
+## What is a Forecasting Contest?
+
+## Journey of Contest
+![](images/Journey.png){fig-align="center"}
+
+
+## Considerations
+![](images/Considerations.png){fig-align="center"}
+
+
+
+## Maximising Value to Stakeholders
+::::: columns
+::: {.column width="40%"}
+{{< placeholder >}}
+:::
+
+::: {.column width="60%"}
+- Test1
+- Test2
+:::
+:::::
+
+## Example
+
+# Key Challenges in Health and Policy
+
+## Ideas Generated Earlier
 
 -   
 

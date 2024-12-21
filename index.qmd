@@ -22,6 +22,7 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 ::: {#target-container style="font-size: 0.8em;"}
 :::
 
+```{=html}
 <script>
   fetch('https://sphere-ppl.org/pages/Events/Jan25.html')
     .then(response => response.text())
@@ -38,14 +39,14 @@ This event and the subsequent forecasting contests have been funded by The Alan 
       console.error('Error fetching webpage:', error);
     });
 </script>
+```
 
 # Presentations
 
--   [Day Structure](Presentations/DayPlan/DayPlan.qmd)
+-   [Main Slides](Presentations/DayPlan/DayPlan.qmd)
 -   [Keynote 1 - Dr. Lauren Cator]()
 -   [Keynote 2 - Dr. Will Pearse]()
 -   [Keynote 3 - Dr. Richard Wood]()
--   [Building a Forecasting Contest](Presentations/ForecastingContests/ForecastingContests.pdf)
 
 # Activities
 
@@ -53,7 +54,7 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 -   Activity 2 - Designing a Forecasting Contest [pdf](Activities/Activity2.pdf) [word](Activities/Activity2.docx)
 -   Activity 3 - Building a Community [pdf](Activities/Activity3.pdf) [word](Activities/Activity3.docx)
 
-# Forecasting Contest Examples
+# Forecasting Contest Links
 
 -   [Mpox Example (SPHERE-PPL)](https://github.com/SPHERE-PPL/Contest-Example-Mpox)
 -   [Cherryblossom Example (George Mason University)](https://competition.statistics.gmu.edu/)

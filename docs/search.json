@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Annual Meeting 2025 - Health Modelling & Forecasting",
-    "section": "",
-    "text": "Key Outcomes\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been funded by The Alan Turing Institute.\n\n\nAgenda\n\n\n\n\n\n\nPresentations\n\nDay Structure\nKeynote 1 - Dr. Lauren Cator\nKeynote 2 - Dr. Will Pearse\nKeynote 3 - Dr. Richard Wood\nBuilding a Forecasting Contest\n\n\n\nActivities\n\nActivity 1 - Identifying Key Challenges in Health Policy pdf word\nActivity 2 - Designing a Forecasting Contest pdf word\nActivity 3 - Building a Community pdf word\n\n\n\nForecasting Contest Examples\n\nMpox Example (SPHERE-PPL)\nCherryblossom Example (George Mason University)\nForecast AggregatoR"
-  },
-  {
     "objectID": "Presentations/DayPlan/DayPlan.html#facilities-accessibility",
     "href": "Presentations/DayPlan/DayPlan.html#facilities-accessibility",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
@@ -53,7 +46,7 @@
     "href": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
     "section": "How its going to work!",
-    "text": "How its going to work!\n\n\nStage 1 - Break-out Discussions (45 minutes)\n\nSplit into random teams of 5\nEach team takes pens and A3 sheet\n60 minutes to talk about key challenges in Health Policy that relate to modelling & forecasting\nDon’t worry about finding solutions, we will do that in this afternoon’s session\n\n\n\n\n\nStage 2 - Group Feedback & Contest Priorities Vote (45 minutes)\n\nEach team will have 2 minutes to present what they think is the biggest challenge they discussed\nThese will form the basis of our forecast contest discussions later!\n\n\n\nThe SPHERE-PPL team will move between groups to help facilitate discussions."
+    "text": "How its going to work!\n\n\nStage 1 - Break-out Discussions (45 minutes)\n\nSplit into random teams of 5\nEach team takes pens and A3 sheet\n45 minutes to talk about key challenges in Health Policy that relate to modelling & forecasting\nDon’t worry about finding solutions, we will do that in this afternoon’s session\n\n\n\n\n\nStage 2 - Group Feedback & Contest Priorities Vote (45 minutes)\n\nEach team will have 2 minutes to present what they think is the biggest challenge they discussed\nThese will form the basis of our forecast contest discussions later!"
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#welcome-back",
@@ -67,14 +60,56 @@
     "href": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-1",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
     "section": "How its going to work!",
-    "text": "How its going to work!\n\nStage 1 - Introduction to Forecasting Contests (10 minutes)\n\nQuick presentation from the SPHERE-PPL team on how the forecasting contests are going to work mechanically and what makes a good contest\n\nStage 2 - Break-Out Discussions (40 minutes)\n\nSplit into random teams of 5\nEach team takes pens and A3 sheet\nPick a challenge area from the next slide and design a forecasting contest\n\nInclude an exam question and a brief summary of the topic\nThink about the type of data that might already exist that participants could use\nWhat will the outputs look like?\nIs the context easy to pick up for a contest participant?\n\n\nStage 3 - Group Feedback (40 minutes)\n\nEach team will give an overview of their proposed contest\nIndicative vote on what would provide greatest impact"
+    "text": "How its going to work!\n\nStage 1 - Building a Forecasting Contest (10 minutes)\n\nQuick presentation from the SPHERE-PPL team on how the forecasting contests are going to work mechanically and what makes a good contest\n\nStage 2 - Break-Out Discussions (40 minutes)\n\nSplit into random teams of 5\nEach team takes pens and A3 sheet\nPick a challenge area from the next slide and design a forecasting contest\n\nInclude an exam question and a brief summary of the topic\nThink about the type of data that might already exist that participants could use\nWhat will the outputs look like?\nIs the context easy to pick up for a contest participant?\n\n\nStage 3 - Group Feedback (40 minutes)\n\nEach team will give an overview of their proposed contest\nIndicative vote on what would provide greatest impact"
   },
   {
-    "objectID": "Presentations/DayPlan/DayPlan.html#key-challenges-in-health-and-policy",
-    "href": "Presentations/DayPlan/DayPlan.html#key-challenges-in-health-and-policy",
+    "objectID": "Presentations/DayPlan/DayPlan.html#what-is-a-forecasting-contest",
+    "href": "Presentations/DayPlan/DayPlan.html#what-is-a-forecasting-contest",
     "title": "SPHERE-PPL Annual Meeting & Workshop",
-    "section": "Key Challenges in Health and Policy",
-    "text": "Key Challenges in Health and Policy"
+    "section": "What is a Forecasting Contest?",
+    "text": "What is a Forecasting Contest?"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#journey-of-contest",
+    "href": "Presentations/DayPlan/DayPlan.html#journey-of-contest",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Journey of Contest",
+    "text": "Journey of Contest"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#considerations",
+    "href": "Presentations/DayPlan/DayPlan.html#considerations",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Considerations",
+    "text": "Considerations"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#maximising-value-to-stakeholders",
+    "href": "Presentations/DayPlan/DayPlan.html#maximising-value-to-stakeholders",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Maximising Value to Stakeholders",
+    "text": "Maximising Value to Stakeholders\n\n\n\n\n\nTest1\nTest2"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#example",
+    "href": "Presentations/DayPlan/DayPlan.html#example",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Example",
+    "text": "Example"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#ideas-generated-earlier",
+    "href": "Presentations/DayPlan/DayPlan.html#ideas-generated-earlier",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "Ideas Generated Earlier",
+    "text": "Ideas Generated Earlier"
+  },
+  {
+    "objectID": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-2",
+    "href": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-2",
+    "title": "SPHERE-PPL Annual Meeting & Workshop",
+    "section": "How its going to work!",
+    "text": "How its going to work!\n\nStage 1 - What can SPHERE-PPL do for you? (10 minutes)\n\nQuick presentation from the SPHERE-PPL team on what the future holds\n\nStage 2 - Brainstorming requests for workshops, training and support (20 minutes)\n\nSplit into groups and make a list of different ideas that would help you make progress in your area\nInclude as many details as possible\n\nStage 3 - Creating a community priority list (30 minutes)\n\nEach team will give an overview of their requests\nDiscussion around how the SPHERE-PPL community can best facilitate and maximise value."
   },
   {
     "objectID": "Presentations/DayPlan/DayPlan.html#what-can-sphere-ppl-do-for-you",
@@ -91,10 +126,10 @@
     "text": "Workshops, Training & Support"
   },
   {
-    "objectID": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-2",
-    "href": "Presentations/DayPlan/DayPlan.html#how-its-going-to-work-2",
-    "title": "SPHERE-PPL Annual Meeting & Workshop",
-    "section": "How its going to work!",
-    "text": "How its going to work!\n\nStage 1 - What can SPHERE-PPL do for you? (10 minutes)\n\nQuick presentation from the SPHERE-PPL team on what the future holds\n\nStage 2 - Brainstorming requests for workshops, training and support (20 minutes)\n\nSplit into groups and make a list of different ideas that would help you make progress in your area\nInclude as many details as possible\n\nStage 3 - Creating a community priority list (30 minutes)\n\nEach team will give an overview of their requests\nDiscussion around how the SPHERE-PPL community can best facilitate and maximise value."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Annual Meeting 2025 - Health Modelling & Forecasting",
+    "section": "",
+    "text": "Key Outcomes\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting challenges that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavors to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been funded by The Alan Turing Institute.\n\n\nAgenda\n\n\n\n\n\n\nPresentations\n\nMain Slides\nKeynote 1 - Dr. Lauren Cator\nKeynote 2 - Dr. Will Pearse\nKeynote 3 - Dr. Richard Wood\n\n\n\nActivities\n\nActivity 1 - Identifying Key Challenges in Health Policy pdf word\nActivity 2 - Designing a Forecasting Contest pdf word\nActivity 3 - Building a Community pdf word\n\n\n\nForecasting Contest Links\n\nMpox Example (SPHERE-PPL)\nCherryblossom Example (George Mason University)\nForecast AggregatoR"
   }
 ]
