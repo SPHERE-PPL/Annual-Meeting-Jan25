@@ -43,8 +43,8 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 
 # Presentations
 
--   [Main Slides](Presentations/DayPlan/DayPlan.qmd)
--   [Keynote 1 - Dr. Lauren Cator]()
+-   [Main Slides](Presentations/DayPlan/Full Presentation.pptx)
+-   [Keynote 1 - ?]()
 -   [Keynote 2 - Dr. Will Pearse]()
 -   [Keynote 3 - Dr. Richard Wood]()
 
