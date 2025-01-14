@@ -57,6 +57,7 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 
 # Forecasting Contest Links
 
--   [Mpox Example (SPHERE-PPL)](https://github.com/SPHERE-PPL/Contest-Example-Mpox)
+-   [Mpox Example (SPHERE-PPL)](https://github.com/SPHERE-PPL/Competition-Example-Mpox)
+-   [Forecasting Contest Template Repo](https://github.com/SPHERE-PPL/forecasting-contest-template)
 -   [Cherryblossom Example (George Mason University)](https://competition.statistics.gmu.edu/)
 -   [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR)
