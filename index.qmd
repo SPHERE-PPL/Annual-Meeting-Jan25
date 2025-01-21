@@ -21,7 +21,7 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 
 ::: {#target-container style="font-size: 0.8em;"}
 | Timings | Activity | Description |
-|:----------------|:-------------------------|------------------------------|
+|:---|:---|----|
 | 9:30-10:00 | Arrivals & Registration |  |
 | 10:00-10:15 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
 | 10:15-10:40 | Keynote 1 - [Dr Hannah Rose Vineer](https://www.liverpool.ac.uk/people/hannah-vineer) | One Health Vector-Bourne Disease Hub |
