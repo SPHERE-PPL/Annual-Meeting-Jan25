@@ -42,7 +42,7 @@ This event and the subsequent forecasting contests have been funded by The Alan 
 
 # Presentations
 
--   [Main Slides](Presentations/DayPlan/Full%20Presentation.pptx)
+-   [Main Slides](Presentations/DayPlan/Full%20Presentation.pdf)
 -   [Keynote 1 - Dr. Hannah Rose Vineer]()
 -   [Keynote 2 - Dr. Richard Wood]()
 
